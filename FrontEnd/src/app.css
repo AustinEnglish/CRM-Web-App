@@ -1,0 +1,61 @@
+#mainPage{
+    background-image: linear-gradient(lightblue, steelblue);
+}
+
+#root{
+    background-color: lightblue;
+    min-height: 100vh;
+    background-image: linear-gradient(lightblue, steelblue);
+}
+
+
+#leads{
+    margin: 2%;
+}
+
+
+#navContainer{
+    color: white;
+    background-color: black;
+    height: 100px;
+}
+
+
+
+
+#outerUsers{
+    margin: auto;
+    width: 800px;
+    padding: 10px;
+}
+
+#centerUsers{
+    background: white;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    width: 700px;
+    border-radius: 10%;
+    box-shadow: 10px 10px rgb(14, 0, 139);
+    
+
+}
+
+
+.txtBox{
+    width: 200px;
+    height: 40px;
+    border-radius: 2%;
+}
+
+.largerBox{
+
+    width: 400px;
+    height: 100px;
+
+}
+
+#titleId{
+    margin: 0% 0% 5% 0%;
+}
+
